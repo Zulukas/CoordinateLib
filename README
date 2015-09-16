@@ -1,0 +1,9 @@
+Coordinate class, see coordinate.h for what the class can do.
+
+To install, run install.sh as sudo.
+To use in program, add:
+	#include <coordinate.h>
+When compiling add the flag:
+	-lcoordinate
+
+Author: Kevin Andres
